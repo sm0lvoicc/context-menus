@@ -1,5 +1,7 @@
 # context-menus
-once baby jesus said, He who shall be last shall be sideways and smiling  
+once baby jesus said, 
+> He who shall be last shall be sideways and smiling  
+
 idk why i said this but okay,  
 context menus, so what are they?
 ![command showcase](https://cdn.discordapp.com/attachments/767941058138996766/870618022207971368/image0.gif)

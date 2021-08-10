@@ -1,8 +1,7 @@
 {
   version: 1,
   type: 2,
-  token: 'aW50ZXJhY3Rpb246ODc0Nzc3MzY2ODIyNTI2OTk2OnU1dnJaUnpiZFZvcHQ3N2NXbXBsVmZjb1JtVHdEVEgxWWFtd1g0WU5SNHdvT2RkQUhtQmZwYTMwa3k4NXlpcTdyTHM4cEk3MU
-1SVUJPVUNxUTNTN1d6enJacEQ0ZEJlZ2lVWnN0Q0FNRGpRTzBocWVLeER5TGFVdUJkUW56dG1a',
+  token: 'token',
   member: {
     user: {
       username: 'small voice of calm and reason™',
